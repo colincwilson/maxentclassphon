@@ -1,4 +1,4 @@
-Each of the jar files listed below must be added to your Java CLASSPATH variable:
+Each of the jar files listed below must be present in your Java CLASSPATH variable:
 
 colt.jar (version 1.2.0)	https://dst.lbl.gov/ACSSoftware/colt/
 commons-cli-1.0.jar		https://commons.apache.org/proper/commons-cli/
