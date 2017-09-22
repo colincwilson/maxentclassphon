@@ -1,2 +1,0 @@
-default *[+wb]->VC
-default *[+wb]->VS
