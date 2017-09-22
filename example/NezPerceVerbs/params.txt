@@ -1,0 +1,10 @@
+-categories	categories.txt
+-features	simple_features.txt
+-projections	projections.txt
+-data	data/folds/train_foldXXX.csv
+-test	data/folds/test_foldXXX.csv
+-grammar	baseline_grammar.txt
+-learn
+-train
+-maxConLength	3
+-minGain	5.0
