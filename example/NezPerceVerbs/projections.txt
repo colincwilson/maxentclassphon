@@ -1,0 +1,2 @@
+default	any	all	3
+CV	any	vocalic	3
